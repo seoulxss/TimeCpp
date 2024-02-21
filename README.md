@@ -1,2 +1,2 @@
 # TimeCpp
-A header only file, which measures time how long a function took.
+A header only file, which measures the time how long a function (or a scope) took.
